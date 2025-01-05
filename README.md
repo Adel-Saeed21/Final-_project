@@ -1,4 +1,6 @@
 University Network Design
+
+
 Project Overview
 This project involves designing a secure and efficient network infrastructure for a university, covering two main locations and a dedicated server area. The design ensures high connectivity, robust security, and seamless communication across all departments.
 
