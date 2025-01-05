@@ -57,5 +57,6 @@ Solution: Implemented Rapid PVST and BPDU Guard.
 How to Run the Simulation
 Open the provided .pkt or .gns3 file in Cisco Packet Tracer or GNS3.
 Follow the included configuration files and testing instructions to explore the network.
+
 Conclusion
 This network design successfully achieves secure, reliable, and scalable connectivity for the university. Future improvements may include integrating wireless networks and exploring software-defined networking (SDN) for further optimization.
